@@ -22,10 +22,9 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
-gem 'active_model_serializers'
-gem 'ffaker'
-gem 'responders', '~> 2.0'
-gem 'react-rails'
+gem 'react-rails', github: 'reactjs/react-rails'
+gem 'sprockets-coffee-react'
+gem 'haml-rails'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
