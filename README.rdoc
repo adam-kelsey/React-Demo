@@ -1,5 +1,8 @@
 == README
 
+Here is the guide being used for this repo.
+http://codeloveandboards.com/blog/2014/09/10/rails-and-react-ii-a-real-use-case/
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
